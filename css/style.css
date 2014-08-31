@@ -2,7 +2,7 @@ body{
      background-color: #55c5ea;
      background-image: url(bg-png);
      TEXT-ALIGN: center;
-     font-family:Lucida Sans Unicode, Hiragino Sans GB, WenQuanYi Micro Hei, Verdana, Aril, sans-serif;
+     font-family:Verdana, Aril, sans-serif;
      
 }
 
@@ -13,7 +13,7 @@ body{
 }
 
 h1{
-    font-size: 40px;
+    font-size: 41px;
 }
 
 h5{

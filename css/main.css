@@ -318,16 +318,18 @@ body{
     color:#FFFDFD;
     padding-top: 120px;
     padding-bottom: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
     
 }
 
 h1{
-    font-size: 41px;
+    font-size: 40px;
 }
 
 h5{
     font-family: sans-serif;
-    font-size: 13px;
-    letter-spacing: 19px;
+    font-size: 12px;
+    letter-spacing: 18px;
 }
     

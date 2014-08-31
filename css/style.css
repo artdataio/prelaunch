@@ -1,0 +1,37 @@
+body{
+        background-color: #ff7d88;
+     background-image: url(bg-png);
+     TEXT-ALIGN: center;
+
+}
+
+.days-number{
+    font-size: 216px;
+    font-family: 'Rye', cursive;
+    width: auto;
+    text-align: center;
+    color: white;
+
+}
+
+
+
+.hours ,.seconds ,.minutes {
+    font-size: 100px;
+    font-family: 'Rye', cursive;
+    width: auto;
+    text-align: center;
+    color: white;
+}
+
+.days-label , .hours-label, .seconds-label, .minutes-label,.text{
+    font-size: 54px;
+    color: white;
+}
+
+
+
+.container {
+
+}
+    

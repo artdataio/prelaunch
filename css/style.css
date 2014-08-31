@@ -1,12 +1,19 @@
 body{
-        background-color: #bdc3c7;
+     background-color: #55c5ea;
      background-image: url(bg-png);
      TEXT-ALIGN: center;
-
+     font-family:Lucida Sans Unicode, Hiragino Sans GB, WenQuanYi Micro Hei, Verdana, Aril, sans-serif;
+     
 }
 
 
 .container {
+    color:#FFFDFD;
+    
+}
 
+h5{
+    font-family: sans-serif;
+    font-size: 13px;
 }
     

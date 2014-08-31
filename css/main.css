@@ -333,3 +333,14 @@ h5{
     letter-spacing: 18px;
 }
     
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px){
+    
+   
+    h1{
+        font-size:35px;
+    }
+    h5{
+        font-size:11px;
+        letter-spacing:13px;
+    }
+}

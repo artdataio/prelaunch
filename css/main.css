@@ -322,7 +322,9 @@ body{
     padding-right: 30px;
     
 }
-
+.main{
+    text-align:center;
+}
 h1{
     font-size: 40px;
 }
